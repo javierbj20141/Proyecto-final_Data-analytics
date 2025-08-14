@@ -28,6 +28,6 @@ Una vez realizado el análisis y el informe, empecé a desarrollar el Dashboard 
 
 En definitiva, considero que en este proyecto final he plasmado todos mis conocimientos adquiridos a lo largo de este proceso, y he sentido una gran mejoría respecto a los momentos iniciales tanto con el uso de la librería Pandas, en donde considero que desde el primer momento conseguí realizar conclusiones significativas, como con el uso de Power BI, en donde considero haber hecho una visualización de las conclusiones de una forma precisa, ordenada y compleja, lo que me ha provocado querer profundizar mis conocimientos en esta herramienta.
 
-Muchas gracias por vuestro tiempo
+Muchas gracias por vuestro tiempo,
 
-Javier Bartolomé Jalvo
+Javier Bartolomé Jalvo,
