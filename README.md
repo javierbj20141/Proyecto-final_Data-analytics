@@ -3,19 +3,19 @@
 ![Imagen PYPB](PYPB.jpg)
 Mi repositorio incluye estás carpetas con estos archivos:
 
-  •	Archivos en bruto: Dos archivos en bruto sobre los que se ha trabajado.
+  1. Archivos en bruto: Dos archivos en bruto sobre los que se ha trabajado.
   
-  •	Conjunto de datos final (xlsx) y 1 transformación y analisis (py): Un archivo Excel que contiene el resultado de la transformación de ambos archivos en bruto,     y un archivo “py” que contiene los pasos realizados en la transformación y análisis de ambos archivos en bruto.
+  2. Conjunto de datos final (xlsx) y 1 transformación y analisis (py): Un archivo Excel que contiene el resultado de la transformación de ambos archivos en bruto,     y un archivo “py” que contiene los pasos realizados en la transformación y análisis de ambos archivos en bruto.
   
-  •	Dashboard operativo: Cuadro de mando en Power BI que indica las principales conclusiones en forma de gráficos visuales.
+  3. Dashboard operativo: Cuadro de mando en Power BI que indica las principales conclusiones en forma de gráficos visuales.
   
-  •	Informe con conclusiones del análisis: Un archivo Word que expone las principales conclusiones del análisis, y conclusiones por bloque.
+  4. Informe con conclusiones del análisis: Un archivo Word que expone las principales conclusiones del análisis, y conclusiones por bloque.
 
 También incluye los siguientes archivos:
 
-  •	Archivo README
+  1. Archivo README
   
-  •	Imagen
+  2. Imagen
 
 Resumen del desarrollo del proyecto:
 
