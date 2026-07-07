@@ -1,5 +1,5 @@
-# Bienvenidos a mi proyecto final del programa de Data Analytics😃
-# Pero antes...una foto que muestra los dos programas que se han utilizado, tanto para el análisis, como para la visualización 📊
+# Limpieza de datos con pandas + visualización con Power BI y conclusiones📊
+
 ![Imagen PYPB](PYPB.jpg)
 Mi repositorio incluye estás carpetas con estos archivos:
 
