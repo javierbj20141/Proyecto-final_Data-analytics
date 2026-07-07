@@ -1,6 +1,7 @@
 # Limpieza de datos con pandas + visualización con Power BI y conclusiones📊
 
-![Imagen PYPB](PYPB.jpg)
+<img src="PYPB.jpg" width="250">
+
 Mi repositorio incluye estás carpetas con estos archivos:
 
   1. Archivos en bruto: Dos archivos en bruto sobre los que se ha trabajado.
