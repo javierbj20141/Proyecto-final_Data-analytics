@@ -1,6 +1,7 @@
 # Limpieza de datos con pandas + visualización con Power BI y conclusiones📊
 
 **Proyecto de integración, análisis y visualización de datos de productos de comercio electrónico, utilizando pandas y Power BI.**
+
 **Integración → Limpieza → Transformación → EDA con Pandas → Visualización y Reporting con Power BI.**
 
 <img src="PYPB.jpg" width="250">
