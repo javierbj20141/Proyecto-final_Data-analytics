@@ -25,7 +25,7 @@ También incluye los siguientes archivos:
 **Herramientas utilizadas:**
 
 - Python, libreria pandas
-- Power Bi
+- Power BI
 
 **Objetivo**:
 
